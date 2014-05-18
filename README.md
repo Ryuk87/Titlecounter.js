@@ -36,7 +36,7 @@ tc.clear();
 * First release
 
 ### License and Copyright
-jQuery GoUp! is licensed under [MIT](http://www.opensource.org/licenses/mit-license.php) license.
+titlecounter.js is licensed under [MIT](http://www.opensource.org/licenses/mit-license.php) license.
 
 (c) 2014 Daniele Lenares
 
